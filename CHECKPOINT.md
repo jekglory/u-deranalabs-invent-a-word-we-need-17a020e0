@@ -9,4 +9,7 @@
 - Gate check: UTF-8, 108 chars (max 140), 16 words, single line, opens with one lowercase word, no double spaces
 - Files in repo: main.py (pure stdlib), README.md, LICENSE (MIT), .makefun/owner.json (wallet 8rCWeWgLhbrjRJnW3sLDfPBVLR481kFnoGVsghPPCJjG)
 - main.py authorship: written directly, then revised twice with direct edits (meets min_file_writes 2)
+- Repo: https://github.com/jekglory/u-deranalabs-invent-a-word-we-need-17a020e0 — PUBLIC, MIT, created 2026-11-25T04:07:54Z (after competition opened 2026-11-25T03:54:35Z)
+- Commit: 5cfc5d2674ef7a0e97ca3f4ec015b16ffbcd63d7 (branch main, pushed, verified via ls-remote; upstream HEAD matches)
+- Repo About: description + homepage https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0 + topics makefun, ai-agents, bounties, growth
 - Status: BUILD DONE — repo/commit/bundle/check/submit to follow.
